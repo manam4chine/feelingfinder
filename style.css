@@ -21,7 +21,8 @@ h1 {font-size:4em; line-height:120px; text-align:center; font-weight:500; width:
 
 /*Circles*/
 
-.circle-bg {height:650px; width:650px; background:#F3F0D6; border-radius: 50%; display: block; margin:0 auto 120px auto;}
+.circle-bg {height:650px; width:650px; margin:0 auto 120px auto; display:block;}
+#pangs {background:url(img/badge_pangs.svg) -15px 0 no-repeat;}
 
 /*CTAs*/
 
